@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: rgb(54, 16, 16);
+    font-family: Lora, serif;
+    text-align: center;
+}
+
+#container{
+    color: rgb(98, 39, 39);
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+}
